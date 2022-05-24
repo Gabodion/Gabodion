@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabodion&label=Profile%20views&color=0e75b6&style=flat" alt="gabodion" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/gabodion3" target="blank"><img src="https://img.shields.io/twitter/follow/gabodion3?logo=twitter&style=for-the-badge" alt="gabodion3" /></a> </p>
+
 
 - 🌱 I’m currently learning **Nodejs**
 
